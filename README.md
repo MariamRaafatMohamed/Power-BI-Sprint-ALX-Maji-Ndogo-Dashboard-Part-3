@@ -2,13 +2,13 @@
 
 This is the third part of the ALX Power BI Sprint project for the fictional city **Maji Ndogo**. It focuses on budget allocation, project progress, and provincial comparison.
 
-## 🧭 Goals
+## Goals
 
 - Compare budget per province  
 - Track project completion status  
 - Highlight discrepancies between employee records and auditor checks
 
-## 📊 Report Pages
+## Report Pages
 
 1. **National Level Report**  
    Budget overview, population served, project types.
@@ -16,7 +16,7 @@ This is the third part of the ALX Power BI Sprint project for the fictional city
 2. **Provincial Level Report**  
    Deep dive per province – sources built, costs, and performance.
 
-## ⚙️ Techniques Used
+##  Techniques Used
 
 - Budget tracking visuals  
 - DAX: COUNTROWS, CALCULATE, net balance logic  
