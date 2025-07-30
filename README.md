@@ -29,8 +29,8 @@ This is the third part of the ALX Power BI Sprint project for the fictional city
 -  [Power BI Report (.pbix)](part2-3(maji_ndogo).pbix)
 -  [Dataset (.csv)](Md_water_services_data.xlsx)
 -  [GeoJSON Map](MD_Provinces.json)
--  [ALX Project Brief](Part_3.pdf)
--  [Sprint Weekly Test](Answer-Maji-Ndogo-part-3-MCQ.pdf)
+-  [ALX Project Brief](Part3_slides.pdf)
+-  [Sprint Weekly Test](project-Maji-Ndogo-part-3-MCQ.pdf.pdf)
 
 ---
 
